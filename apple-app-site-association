@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2RST8749NS.ca.qc.gouv.portefeuillemobileqc",
+                "paths": [ "/wallet/*" ]
+            }
+        ]
+    }
+}
